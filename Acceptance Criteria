@@ -1,0 +1,10 @@
+Acceptance Criteria:
+-A spaceman should see a map that 
+that resembles their their current location 
+-It consist of a map that fits within a square box
+And has a spaceman icon that represent the space man
+-The spaceman icon should move in relation to and in 
+Proportion to the game players position.
+
+Edge cases: 
+If the spaceman dies it the spaceman icon will fade away from the map
