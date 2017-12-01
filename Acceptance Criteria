@@ -8,3 +8,13 @@ Proportion to the game players position.
 
 Edge cases: 
 If the spaceman dies it the spaceman icon will fade away from the map
+
+Acceptance Criteria:
+-A spaceman should their current oxygen level
+that resembles how much oxygen they have left
+-it consist of a bar and displays their oxygen level within
+- the oxygen level will decrease depending on how long the 
+the space man has been since it was last filled 
+
+Edge cases: 
+If the spaceman runs out of oxygen then the spaceman will die
